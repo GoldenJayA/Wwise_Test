@@ -111,8 +111,8 @@ MonoBehaviour:
         guid: 15f2d9b57781bb4f8f4ae477bbedc67f
       Path: Events\Default Work Unit\Play_MusicTrack
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 177.6907
+      minDuration: 177.6907
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:
@@ -170,7 +170,7 @@ MonoBehaviour:
     m_lastTime: -8584653337683968513
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 
+  ExpandedWaapiItemIds: 06000000070000000b0000000c000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0
