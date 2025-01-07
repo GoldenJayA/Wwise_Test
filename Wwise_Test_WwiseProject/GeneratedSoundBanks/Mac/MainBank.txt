@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2033969612	Play_MusicTrack			\Default Work Unit\Play_MusicTrack	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	563399639	Music Track	C:\Users\angel\OneDrive\Desktop\Wwise Test\Github Repository\Wwise_Test\Wwise_Test_WwiseProject\.cache\8B\{8BF5A43A-8F25-EE83-5594-ED65B3D3F95D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music Track		34116712
+

@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2880737896",
+    "Type": "User",
+    "GUID": "{7B58A809-EBFD-4AB8-B24E-4B218786240D}",
+    "Language": "SFX",
+    "Hash": "{8C4A1033-DF6F-6EE3-42AC-C600C41314BD}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MainBank",
+    "ShortName": "MainBank",
+    "Path": "MainBank.bnk",
+    "Media": [
+     {
+      "Id": "563399639",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Mild High Club - Homage.wav",
+      "CachePath": "8B/{8BF5A43A-8F25-EE83-5594-ED65B3D3F95D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2033969612",
+      "Name": "Play_MusicTrack",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MusicTrack",
+      "GUID": "{B5D9F215-8177-4FBB-8F4A-E477BBEDC67F}",
+      "DurationType": "OneShot",
+      "DurationMin": "177.6907",
+      "DurationMax": "177.6907",
+      "MediaRefs": [
+       {
+        "Id": "563399639"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{BF6B7AD2-0EEC-7133-3877-BAB96094456D}"
+ }
+}
